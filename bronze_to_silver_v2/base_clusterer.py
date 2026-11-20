@@ -53,7 +53,7 @@ class BaseClusterer:
         self.weight_fasttext = 0.5
         self.weight_synset = 0.3
         # self.llm = OpenAI(
-        #     api_key='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',
+        #     api_key='',
         #     model='gpt-4o-mini',
         #     reuse_client=False,
         #     temperature=0.5,
