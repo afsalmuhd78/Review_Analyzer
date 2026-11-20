@@ -23,7 +23,6 @@ ZSCORE_KEY = 'review_v2_llm_call_project_{}'
 class LLMReviewTagger:
     def __init__(self):
         # self.llm = OpenAI(
-        #     api_key='',
         #     model='gpt-4o-mini',
         #     reuse_client=False,
         #     additional_kwargs={"seed": 1424},
