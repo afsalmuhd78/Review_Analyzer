@@ -1,0 +1,27 @@
+--index-url http://pypi.priv.scrapehero.com/simple/
+--trusted-host pypi.priv.scrapehero.com
+--extra-index-url https://download.pytorch.org/whl/cpu
+python-dotenv==1.0.1
+langfuse==2.55.0
+psycopg2-binary==2.9.9
+litellm
+dynaconf==3.2.6
+scikit-learn==1.5.2
+nltk==3.9.1
+numpy==1.26.4
+requests==2.32.3
+scipy==1.13.1
+spacy==3.7.6
+tqdm==4.66.5
+transformers==4.44.2
+redis==5.0.7
+gensim==4.3.3
+tenacity
+sentence_transformers
+textblob
+vaderSentiment
+transformers
+optimum[onnxruntime]
+wordninja==2.0.0
+dspy==2.5.39
+lakehouse-utils[traces]
